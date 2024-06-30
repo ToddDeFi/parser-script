@@ -2,13 +2,13 @@ import asyncio
 from telethon import TelegramClient, events
 
 # Конфигурация
-api_id = '25382442'
-api_hash = 'b319175cafe56fff3396211f3a143bc7'
-phone = '+48571845635'
+api_id = ''
+api_hash = ''
+phone = ''
 
 # Список каналов
-channels = ['@script_for_misha', '@another_channel']
-my_chat_id = '@script_for_misha_2'
+channels = ['@', '@']
+my_chat_id = '@'
 
 # Словарь для фильтрации сообщений (ключевые слова)
 filter_keywords = [

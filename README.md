@@ -1,5 +1,4 @@
-<img width="1440" alt="Снимок экрана 2024-06-30 в 17 29 34" src="https://github.com/ToddDeFi/parser-script/assets/102527508/abbb1294-0df1-4990-942a-61cb1f721245"># parser-script
-
+Установка файлов:
 1. mkdir <название папки>
 2. cd <название папки>
 3. git clone https://github.com/ToddDeFi/parser-script.git
